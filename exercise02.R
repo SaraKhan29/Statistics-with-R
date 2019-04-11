@@ -11,8 +11,7 @@
 ## the assignment graded as complete.
 
 ## Group Members info
-## Name: Sara Khan, Jyothsna Shashikumar Sastry, Hasan Md Tusfiqur Alam
-## Matriculation number: 2571648, 2571729, 2571663
+
 
 
 # 1. Download the data file "digsym.csv" from the moodle and save it in your working directory. 
