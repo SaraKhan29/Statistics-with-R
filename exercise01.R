@@ -10,8 +10,7 @@
 ## the assignment graded as complete. 
 
 ## Please write below your (and your teammates) name, matriculation number. 
-## Name: Sara Khan, Jyothsna Shashikumar Sastry, Hasan Md Tusfiqur Alam
-## Matriculation number: 2571648, 2571729, 2571663
+
 
 ## Change the name of the file by adding your matriculation numbers
 ## (exercise01_firstID_secondID_thirdID.R)
